@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"https://github.com/Rorkh"
+	],
+	"copyright": "Copyright © 2023, Rorkh",
+	"dependencies": {
+		"tailwind-d": "~>1.0.0",
+		"vibe-d": "~>0.9"
+	},
+	"description": "tailwind.d hello world with vibe.d",
+	"license": "MIT",
+	"name": "tailwind-d-vibe-d"
+}
